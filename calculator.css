@@ -1,0 +1,41 @@
+.calc-main{
+    height: 500px;
+    width: 400px;
+    background-color: black;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.calc-head{
+    height: 20%;
+    width: 100%;
+}
+
+.calc-body{
+    height: 80%;
+    width: 100%;
+    background-color: BLUE;
+}
+
+#display{
+    height: 85%;
+    width: 90%;
+    margin: 10px 0px 0px 18px;
+    text-align: end;
+    font-size: 50px;
+    border: 0;
+    outline: 0;
+    font-family: cursive;
+}
+
+.btn{
+    height: 70px;
+    width: 70px;
+    margin: 5px 10px 5px 15px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.btn2{
+    width: 170px;
+}
